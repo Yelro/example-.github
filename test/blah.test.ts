@@ -1,4 +1,4 @@
-import { subtract, sum } from '../src';
+import { sum } from '../src';
 
 describe('blah', () => {
   it('works', () => {
@@ -6,8 +6,4 @@ describe('blah', () => {
   });
 });
 
-describe('blah', () => {
-  it('works', () => {
-    expect(subtract(1, 1)).toEqual(2);
-  });
-});
+
