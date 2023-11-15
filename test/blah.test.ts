@@ -8,12 +8,12 @@ describe('blah', () => {
 
 describe('blah', () => {
   it('works', () => {
-    expect(subtract(3, 1)).toEqual(2); //3-1=2
+    expect(subtract(3, 1)).toEqual(2);
   });
 });
 
 describe('multiply', () => {
   it('should multiply two numbers', () => {
-    expect(multiply(2, 2)).toEqual(4);//2*2=4
+    expect(multiply(2, 2)).toEqual(4);
   });
 });
